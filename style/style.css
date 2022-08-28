@@ -126,6 +126,12 @@
     
 }
 @media(max-width: 768px){
+    .hero-section{
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: baseline;
+    }
     .ul1{
         display: none;
     }
@@ -141,4 +147,8 @@
         width: 90%;
         padding: 10px;
     }
-}
+    .main-container{
+        margin: 0;
+    }
+    }
+
