@@ -77,6 +77,7 @@
     justify-content: space-between;
 }
 .input1{
+    padding-left: 10px;
     height: 50px;
     width: 300px;
     background-color: darkgray;
@@ -89,6 +90,7 @@
     flex-direction: column;
 }
 .input2{
+    padding: 10px;
     height: 50px;
     width: 300px;
     color: black;
@@ -103,6 +105,7 @@
     flex-direction: column;
 }
 .input3{
+    padding: 10px;
     width: 300px;
     height: 50px;
     margin-bottom: 10px;
